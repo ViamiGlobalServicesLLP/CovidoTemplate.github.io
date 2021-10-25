@@ -1,2 +1,0 @@
-# CovidoTemplate.github.io
- 
